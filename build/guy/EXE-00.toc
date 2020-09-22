@@ -41,7 +41,7 @@
  [],
  False,
  False,
- 1600774349,
+ 1600774923,
  [('run',
    '/home/andrea/anaconda3/envs/mech/lib/python3.8/site-packages/PyInstaller/bootloader/Linux-64bit/run',
    'EXECUTABLE')])
