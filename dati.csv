@@ -1,0 +1,26 @@
+Macchina,Processo,Sostanza,Nome S.,costo Unitario,Costo Processo
+o25,pro1,S1,Sostanza1,0.99,100
+o25,pro1,S2,Sostanza2,0.99,100
+o25,pro1,S3,Sostanza3,0.99,100
+o25,pro2,S1,Sostanza1,0.89,80
+o25,pro2,S2,Sostanza2,0.89,80
+o25,pro2,S4,Sostanza4,0.89,80
+o26,pro1,S1,Sostanza1,0.55,75
+o26,pro1,S2,Sostanza2,0.55,75
+o26,pro1,S3,Sostanza3,0.55,75
+o26,pro1,S4,Sostanza4,0.55,75
+o26,pro1,S5,Sostanza5,0.55,75
+o26,pro2,S2,Sostanza2,0.75,66
+o26,pro2,S4,Sostanza4,0.75,66
+o26,pro2,S5,Sostanza4,0.75,66
+o27,pro1,S1,Sostanza1,0.51,32
+o27,pro1,S2,Sostanza2,0.51,32
+o27,pro1,S3,Sostanza3,0.51,32
+o27,pro2,S1,Sostanza1,0.64,15
+o27,pro2,S2,Sostanza2,0.64,15
+o27,pro2,S4,Sostanza4,0.64,15
+o27,pro3,S1,Sostanza1,0.44,12
+o27,pro3,S2,Sostanza2,0.44,12
+o27,pro3,S3,Sostanza3,0.44,12
+o27,pro3,S4,Sostanza4,0.44,12
+o27,pro3,S5,Sostanza5,0.44,12
