@@ -1,7 +1,12 @@
 from tkinter import *
 import pandas as pd
 
-data = pd.read_csv("dati.csv")
+try:
+	data = pd.read_csv("dati.csv")
+except Exception as ex:
+	print(ex)
+	quit()
+
 macchine = set(data["Macchina"])
 processi = set(data["Processo"])
 
